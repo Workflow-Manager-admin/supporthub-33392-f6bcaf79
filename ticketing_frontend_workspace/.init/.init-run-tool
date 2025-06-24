@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/supporthub-33392-f6bcaf79/ticketing_frontend_workspace/ticketing_frontend"
+}
